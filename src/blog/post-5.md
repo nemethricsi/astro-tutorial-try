@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: Welcome to Container queries
 author: Astro Learner
 description: "Container Queries Unleashed"
